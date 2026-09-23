@@ -6,6 +6,7 @@ __pycache__/
 # Mod backups and temporary files
 *.bak
 *.tmp
+*.zip
 
 # OS & Editor files
 .DS_Store
